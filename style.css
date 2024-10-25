@@ -1,0 +1,105 @@
+p{
+    color:ff6a6a;
+   
+    
+}
+div{
+    font-size: 1em ;
+    margin: 2em;
+}
+span{
+    color: #ff6a6a;
+}
+section{
+    color: #9e9e9e;
+     justify-content: left;
+    display: flex;
+    margin-left: 1.5em;
+}
+button{
+    background-color: #ff6a6a;
+    
+    border:none;
+    color:white;
+    border-radius:2em;
+    
+    margin-top: 2em;
+    height: 3em;
+    width: 11em;
+    align-text: center;
+    
+    
+    
+}
+main{
+    justify-content: center;
+    align-item: center;
+    display: flex;
+    margin-top: 0.1em;
+}
+below{
+    display:flex;
+    bacbackground-color: #6477c8;
+}
+h2{
+    display:flex;
+   margin-right:1em;
+   gap:7em;
+   
+}
+img{
+    margin: 2em;
+}
+summer{
+    justify-content: left;
+    display: flex;
+    margin-left: 1.5em;
+}
+mages{
+    justify-content: center;
+    align-item: center;
+    display: flex;
+    text-align: center;
+    margin-bottom: 3em;
+}
+star{
+justify-content: center;
+    align-item: center;
+    display: flex;
+    margin-bottom: 30em;
+    gap: 7em;
+}
+why{
+    justify-content: left;
+    display: flex;
+    margin-left: 1.5em;
+}
+sections{
+    color: #9e9e9e;
+     justify-content: left;
+    display: flex;
+    margin-left: 1.5em;
+    margin-top: 1em;
+    
+ button{
+          justify-content: left;
+    display: flex;
+    margin-left: 1.5em;
+    margin-top: 1em;
+    background-color: #ff6a6a;
+    color:white;
+    height: 3em;
+    width: 11em;
+    align-text: center;
+}
+
+mid{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+mi{
+    justify-content: center;
+    display: grid;
+    align-items: center;
+}
